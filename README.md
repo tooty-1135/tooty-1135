@@ -1,7 +1,5 @@
-# 哈囉
-(洗勒哈囉
-
-## 你們好，我叫AD，大家都叫我...AD
-我目前正在讀國中，在很大的時間壓力之下，我還是會抽出一點時間來學程式，但也因為時間不多，所以...我寫程式...很爛<br>
-但 沒關係 因為<br>
-![suck](https://user-images.githubusercontent.com/58936872/155842351-331e608b-5cbd-4eec-a011-f9845083c37d.png)
+# user
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tooty-1135&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tooty-1135&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# repo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tooty-1135&repo=easy-happyread-ext)](https://github.com/anuraghazra/github-readme-stats)
