@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="720" height="180" viewBox="0 0 720 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip_path_1">
+      <rect width="720" height="180" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip_path_1)">
+    <rect width="720" height="180" fill="#101419" fill-rule="evenodd" />
+    <g transform="translate(19 -37)">
+      <path d="M20 0L40 30L0 30L20 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(0 160)" />
+      <path d="M20 0L40 30L0 30L20 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(60 175)" />
+      <path d="M20 0L40 30L0 30L20 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(130 140)" />
+      <path d="M32.5 0L65 48.75L0 48.75L32.5 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(260 191)" />
+      <path d="M20 0L40 30L0 30L20 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(200 212)" />
+      <path d="M20 0L40 30L0 30L20 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(350 160)" />
+      <path d="M32.5 0L65 48.75L0 48.75L32.5 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(590 73)" />
+      <path d="M32.5 0L65 48.75L0 48.75L32.5 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(480 24)" />
+      <path d="M32.5 0L65 48.75L0 48.75L32.5 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(335 59)" />
+      <path d="M32.5 0L65 48.75L0 48.75L32.5 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(410 59)" />
+      <path d="M32.5 0L65 48.75L0 48.75L32.5 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(325 0)" />
+      <path d="M30 0L60 45L0 45L30 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(390 130)" />
+      <path d="M30 0L60 45L0 45L30 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(540 168)" />
+      <path d="M30 0L60 45L0 45L30 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(10 34)" />
+      <path d="M30 0L60 45L0 45L30 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(100 59)" />
+      <path d="M25 0L50 37.5L0 37.5L25 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(40 135)" />
+      <path d="M30 0L60 45L0 45L30 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(210 24)" />
+      <path d="M30 0L60 45L0 45L30 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(200 65)" />
+      <path d="M30 0L60 45L0 45L30 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(430 190)" />
+      <path d="M30 0L60 45L0 45L30 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(635 145)" />
+      <path d="M30 0L60 45L0 45L30 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(255 47)" />
+      <path d="M25 0L50 37.5L0 37.5L25 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(15 112)" />
+      <path d="M25 0L50 37.5L0 37.5L25 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(140 48)" />
+      <path d="M25 0L50 37.5L0 37.5L25 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(150 189)" />
+      <path d="M25 0L50 37.5L0 37.5L25 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(210 123)" />
+      <path d="M25 0L50 37.5L0 37.5L25 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(470 86)" />
+      <path d="M25 0L50 37.5L0 37.5L25 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(590 209)" />
+      <path d="M25 0L50 37.5L0 37.5L25 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(295 117)" />
+      <path d="M25 0L50 37.5L0 37.5L25 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(430 123)" />
+      <path d="M32.5 0L65 48.75L0 48.75L32.5 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(520 109)" />
+      <path d="M30 0L60 45L0 45L30 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(645 85)" />
+      <path d="M25 0L50 37.5L0 37.5L25 0Z" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="0.102" transform="translate(565 18)" />
+    </g>
+    <g>
+      <path d="M8.60653 70.7188L1.86648 70.7188L21.3608 17.6278L27.9972 17.6278L47.4915 70.7188L40.7514 70.7188L35.4112 55.6832L13.9467 55.6832L8.60653 70.7188ZM15.9688 49.9801L33.3892 49.9801L24.8864 26.027L24.4716 26.027L15.9688 49.9801ZM84.821 30.9006Q84.3544 26.9602 81.0362 24.7827Q77.718 22.6051 72.8963 22.6051Q67.6079 22.6051 64.3935 25.1067Q61.179 27.6083 61.179 31.419Q61.179 34.2706 62.9288 36.0204Q64.6786 37.7702 67.0765 38.7424Q69.4744 39.7145 71.4446 40.233L76.8366 41.6847Q78.9105 42.229 81.464 43.1882Q84.0174 44.1474 86.3635 45.7935Q88.7095 47.4396 90.239 50.006Q91.7685 52.5724 91.7685 56.3054Q91.7685 60.6087 89.5261 64.0824Q87.2837 67.5561 82.9934 69.604Q78.7031 71.652 72.5852 71.652Q64.0305 71.652 59.0014 67.608Q53.9723 63.5639 53.5057 57.0313L60.142 57.0313Q60.4013 60.0384 62.177 61.9956Q63.9528 63.9528 66.6877 64.899Q69.4226 65.8452 72.5852 65.8452Q76.2663 65.8452 79.1957 64.6397Q82.125 63.4343 83.8359 61.2697Q85.5469 59.1051 85.5469 56.2017Q85.5469 53.5575 84.0692 51.8984Q82.5916 50.2393 80.1808 49.2024Q77.7699 48.1655 74.9702 47.3878L68.4375 45.5213Q62.2159 43.7326 58.5866 40.4144Q54.9574 37.0962 54.9574 31.7301Q54.9574 27.2713 57.3812 23.9402Q59.805 20.609 63.9139 18.7555Q68.0227 16.902 73.1037 16.902Q78.2365 16.902 82.2287 18.7296Q86.2209 20.5572 88.5669 23.7198Q90.913 26.8825 91.0426 30.9006L84.821 30.9006ZM99.4418 23.331L99.4418 17.6278L139.26 17.6278L139.26 23.331L122.565 23.331L122.565 70.7188L116.136 70.7188L116.136 23.331L99.4418 23.331ZM149.214 70.7188L149.214 17.6278L181.256 17.6278L181.256 23.331L155.643 23.331L155.643 41.2699L179.597 41.2699L179.597 46.973L155.643 46.973L155.643 65.0156L181.67 65.0156L181.67 70.7188L149.214 70.7188ZM192.869 70.7188L192.869 17.6278L210.808 17.6278Q217.03 17.6278 221.022 19.7406Q225.014 21.8533 226.933 25.5344Q228.851 29.2156 228.851 33.9077Q228.851 39.196 226.427 43.1234Q224.003 47.0508 218.922 48.7876L230.925 70.7188L223.459 70.7188L212.26 49.9542Q211.612 49.9801 210.912 49.9801L199.298 49.9801L199.298 70.7188L192.869 70.7188ZM199.298 44.1733L210.705 44.1733Q217.082 44.1733 219.804 41.4254Q222.526 38.6776 222.526 33.9077Q222.526 29.1119 219.791 26.2214Q217.056 23.331 210.601 23.331L199.298 23.331L199.298 44.1733ZM284.327 44.1733Q284.327 52.5724 281.294 58.6903Q278.261 64.8082 272.972 68.1264Q267.684 71.4446 260.892 71.4446Q254.1 71.4446 248.812 68.1264Q243.523 64.8082 240.49 58.6903Q237.457 52.5724 237.457 44.1733Q237.457 35.7741 240.49 29.6563Q243.523 23.5384 248.812 20.2202Q254.1 16.902 260.892 16.902Q267.684 16.902 272.972 20.2202Q278.261 23.5384 281.294 29.6563Q284.327 35.7742 284.327 44.1733ZM278.105 44.1733Q278.105 37.2777 275.811 32.5337Q273.517 27.7898 269.615 25.353Q265.714 22.9162 260.892 22.9162Q256.07 22.9162 252.169 25.353Q248.267 27.7898 245.973 32.5337Q243.679 37.2777 243.679 44.1733Q243.679 51.0689 245.973 55.8129Q248.267 60.5568 252.169 62.9936Q256.07 65.4304 260.892 65.4304Q265.714 65.4304 269.615 62.9936Q273.517 60.5568 275.811 55.8129Q278.105 51.0689 278.105 44.1733ZM301.54 17.6278L301.54 70.7188L295.111 70.7188L295.111 17.6278L301.54 17.6278ZM330.781 70.7188L314.398 70.7188L314.398 17.6278L331.507 17.6278Q339.232 17.6278 344.728 20.8034Q350.224 23.979 353.153 29.9025Q356.082 35.826 356.082 44.0696Q356.082 52.3651 353.127 58.3404Q350.172 64.3157 344.521 67.5172Q338.869 70.7188 330.781 70.7188ZM320.827 65.0156L330.366 65.0156Q340.243 65.0156 345.052 59.4032Q349.861 53.7908 349.861 44.0696Q349.861 34.4261 345.143 28.8785Q340.425 23.331 331.092 23.331L320.827 23.331L320.827 65.0156Z" fill="#FFFFFF" transform="translate(180 46)" />
+      <path d="M0 0L60 -180L0 -180L0 0Z" fill="#000000" fill-rule="evenodd" transform="matrix(1 0 0 -1 0 180)" />
+      <path d="M0 0L60 -180L0 -180L0 0Z" fill="#000000" fill-rule="evenodd" transform="matrix(-1 0 0 1 720 0)" />
+    </g>
+  </g>
+</svg>
