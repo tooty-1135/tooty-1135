@@ -39,12 +39,12 @@ Status: actively building
 
 ## previous projects
 
-### [Info-Asteroid asteroid.tw](//asteroid.tw)
+### [Info-Asteroid asteroid.tw](https://asteroid.tw)
 
 My personal website.
 A place to experiment with layout, interaction and structure.
 
-[<img src="./images/info-ad-banner.svg" alt="Website banner" style="max-width:40rem; height:auto;">](//asteroid.tw)
+[<img src="./images/info-ad-banner.svg" alt="Website banner" style="max-width:40rem; height:auto;">](https://asteroid.tw)
 
 
 ---
