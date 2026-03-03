@@ -54,7 +54,7 @@ A place to experiment with layout, interaction and structure.
 A Discord bot.
 Now archived, but it was one of the early large experiments.
 
-<img src="./images/gt-lt-bot-banner.svg" alt="gt-lt-bot-banner" style="max-width:40rem; height:auto;">
+<img src="./images/gt-lt-bot-banner.png" alt="gt-lt-bot-banner" style="max-width:40rem; height:auto;">
 
 Status: discontinued
 
